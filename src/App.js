@@ -4,7 +4,6 @@ import Carrinho from './componente/Carrinho/Carrinho';
 import Filtro from './componente/Filtro/Filtro';
 import Header from './componente/Header/Header';
 import MainPage from './componente/MainPage/MainPage';
-import Product from './componente/Product/Product';
 import roupa from './roupas/roupas';
 
 
