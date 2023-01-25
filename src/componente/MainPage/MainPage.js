@@ -1,12 +1,11 @@
 import React from "react";
 import Product from "../Product/Product";
-// import Card from "../Cards/Cards";
-// import { MainConteiner } from "./styled";
+
 
 
 
 function MainPage(props) {
- const {products, filtroOrdenado, minPreco,maxPreco,setMaxPreco,setMin,busca, setBusca, adicionar}= props
+ const {products ,maxPreco, filtroOrdenado, minPreco,setMaxPreco,setMin,busca, adicionar}= props
  console.log(maxPreco) 
  return (
      

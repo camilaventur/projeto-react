@@ -7,7 +7,7 @@ function Header({countItemCarrinho}) {
     return (
         <header className="block row center">
         <div>
-          <img src=""/>
+          {/* <img src="" alt=""/> */}
           <a href="#/">
             <h1>Roupas Espaciais</h1>
           </a>
